@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Nguyễn Văn A",
+      "gender": "Thanh Xuân, HÀ Nội",
+      "email": "a@gmail.com",
+      "password": "1234567"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam sành",
+      "price": 120000,
+      "from": "China"
+    },
+    {
+      "id": 2,
+      "product_name": "Táo lê",
+      "price": 100000,
+      "from": "Việt Nam"
+    },
+    {
+      "product_name": "Bưởi 6 roi",
+      "price": 150000,
+      "from": "Hà Nội",
+      "id": 3
+    },
+    {
+      "product_name": "Chuối Yên Lãng",
+      "price": 14000,
+      "from": "Yên Lãng",
+      "id": 4
+    }
+  ]
+}
